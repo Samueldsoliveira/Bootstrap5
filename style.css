@@ -6,6 +6,30 @@
     width: 325px;
 }
 
-.divform{
-    margin: 0em 12em;
+.div-form{
+    padding: 0rem 26rem;
+}
+
+@media(max-width: 1213px){
+    .div-form{
+        padding: 0rem 19em;
+    }
+}
+
+@media(max-width: 987px){
+    .div-form{
+        padding: 0rem 15em;
+    }
+}
+
+@media(max-width: 800px){
+    .div-form{
+        padding: 0rem 5em;
+    }
+}
+
+@media(max-width: 800px){
+    .div-form{
+        padding: 0rem 1em;
+    }
 }
